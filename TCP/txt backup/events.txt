@@ -1,0 +1,5 @@
+5:This is first event.
+7:I like Computer Networks classes!
+15:My homework is still in progress.
+25:Time to think about life.
+0:What an incredible thing!
